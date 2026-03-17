@@ -37,6 +37,7 @@ Lệnh thực hiện mở code: nano my_projects/src/main_test.c
 <img width="786" height="533" alt="image" src="https://github.com/user-attachments/assets/be7a755b-c1fa-467f-a152-d46611632531" />
 
 <img width="786" height="533" alt="image" src="https://github.com/user-attachments/assets/f0749570-8bc7-43c7-aba1-21ba82ea729c" />
+
 2. Đánh giá sự khác biệt về Kích thước (Dung lượng file)
 
 Lệnh thực thi trên Board: ls -lh /usr/bin/test_static /usr/bin/test_dynamic
@@ -83,8 +84,10 @@ Lệnh thực hiện: ls -l output/target/usr/bin và ls -l output/target/usr/li
 <img width="921" height="141" alt="image" src="https://github.com/user-attachments/assets/8ad9d200-98e9-419f-ac70-a0849de3e6f7" />
 
 <img width="921" height="515" alt="image" src="https://github.com/user-attachments/assets/230c1198-46ce-476f-9f01-0aca7383887f" />
+
 Giải thích: > * Thư mục Staging đóng vai trò là Sysroot chứa các Header và Library phục vụ quá trình Compile.
 
 Thư mục Target đóng vai trò là bản nháp của hệ thống RootFS. Mọi ứng dụng sau khi biên dịch xong đều được chèn vào đây trước khi nén thành file sdcard.img.
+
 Video Demo:
 https://drive.google.com/file/d/1GRx4i2sXR0ASKQf_AOxu0R45blrvTqTB/view?usp=sharing
