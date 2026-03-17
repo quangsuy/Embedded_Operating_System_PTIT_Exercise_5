@@ -69,6 +69,9 @@ Lệnh thực hiện: Sử dụng lệnh select BR2_PACKAGE_CJSON để ép Buil
 
 <img width="786" height="533" alt="image" src="https://github.com/user-attachments/assets/3590f4d2-67eb-4bc0-9968-8afacfbaff5a" />
 
+<img width="1470" height="141" alt="image" src="https://github.com/user-attachments/assets/76b00b09-9e48-4d4d-8f5b-b60bb1c0a6b5" />
+
+
 3. Kết quả chạy FinalApp trên bo mạch
 
 Sau khi chạy lệnh make để hệ thống tự động Build và chép ra thẻ nhớ sdcard.img, ứng dụng đã tích hợp thành công vào nhân hệ điều hành.
